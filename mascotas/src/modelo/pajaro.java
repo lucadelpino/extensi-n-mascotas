@@ -7,5 +7,10 @@ public class pajaro extends Mascota {
 		// TODO Auto-generated method stub
 
 	}
-
+public void lucirme() {
+		// TODO Auto-generated method stub
+		//super.lucirme();
+		
+		System.out.println("pio pio");
+	}
 }
