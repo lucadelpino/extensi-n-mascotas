@@ -10,6 +10,6 @@ public class pajaro extends Mascota implements IVacunable{
 			// TODO Auto-generated method stub
 			//super.lucirme();
 			
-			System.out.println("pio pio");
+			System.out.println("pio pio *vuelo* ");
 		}
 }
