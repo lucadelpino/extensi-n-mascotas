@@ -1,9 +1,10 @@
 package modelo;
 
-public class pajaro extends Mascota {
-	}
+
 	
 public class pajaro extends Mascota implements IVacunable{
+	
+	public pajaro;
 	
 	public void lucirme() {
 			// TODO Auto-generated method stub
